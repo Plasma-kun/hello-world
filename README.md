@@ -1,2 +1,2 @@
-# helo-world
-Don't know what to put here
+# hello-world
+First repository
